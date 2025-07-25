@@ -38,4 +38,5 @@ Antes de rodar o projeto, você precisa ter instalado:
 - [Visual Studio 2022](https://visualstudio.microsoft.com/pt-br/downloads/)
 
 ## Configurações no appsettings.Development
-- Use no terminal para gerar a key JWT: **node -e "console.log(require('crypto').randomBytes(256).toString('base64'))"**
+- Use no terminal para gerar a key JWT:
+**node -e "console.log(require('crypto').randomBytes(256).toString('base64'))"**
